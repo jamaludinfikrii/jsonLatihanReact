@@ -30,7 +30,7 @@
       "namaproduk": "Mie Ayam",
       "kategori": "Makanan",
       "harga": 2000,
-      "deskripsi": "enak",
+      "deskripsi": "Hangat, enam dan menyegarkan, terbuat dari bahan pilihan dan mentega kualitas terbaik, dijamin bikin kamu ketagihan",
       "img": "https://images.unsplash.com/photo-1471253794676-0f039a6aae9d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f14ecac43b622891333687207a46ca83&auto=format&fit=crop&w=750&q=80",
       "id": 1
     },
@@ -38,7 +38,7 @@
       "namaproduk": "Jus Alpukat",
       "kategori": "Minuman",
       "harga": 6000,
-      "deskripsi": "Seger",
+      "deskripsi": "Alpukat langsung dari tanaman terbaik di penjuru negeri yang bisa membuat badan kembali segar dan bugar",
       "img": "https://images.unsplash.com/photo-1543076599-1b41bf749f9f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=747d908e9b3da4ae554a04e0e63f4430&auto=format&fit=crop&w=750&q=80",
       "id": 2
     },
@@ -46,7 +46,7 @@
       "namaproduk": "Es Jeruk",
       "kategori": "Minuman",
       "harga": 5000,
-      "deskripsi": "Seger, Manis, mantap",
+      "deskripsi": "Kecut kecut gimana gitu, karena sesungguhnya segala sesuatu gak selamnya manis. kadang kita harus merasakan sesuatu yang kecut juga",
       "img": "https://images.unsplash.com/photo-1543419417-6f584a98e66c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c890813f3834d573a6319d951fbebb5&auto=format&fit=crop&w=1050&q=80",
       "id": 3
     },
@@ -54,7 +54,7 @@
       "namaproduk": "Roti Bakar",
       "kategori": "Desert",
       "harga": 20000,
-      "deskripsi": "Jos, Wareg, Mantep",
+      "deskripsi": "Ketika perut lapar, namun ingin memuaskan perutmu dengan sesuatu yang kenyang dan menyehatkan, produk ini bisa menjadi pilihan perut anda",
       "img": "https://images.unsplash.com/photo-1543304441-0fae560c1d6e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ddcd83c5d59ce48a56cb65a0377745bf&auto=format&fit=crop&w=1050&q=80",
       "id": 4
     },
@@ -62,7 +62,7 @@
       "namaproduk": "Telor Ceplok",
       "kategori": "Makanan",
       "harga": 5000,
-      "deskripsi": "Waregi",
+      "deskripsi": "Protein tinggi dan mengandung albumin yang bagus untuk meregenerasi sel yang rusak dan juga memperbaiki jaringan tubuh yang hilang",
       "img": "https://images.unsplash.com/photo-1515481774243-98fd57ff2bd4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9cf132fc04ff1fd1075a81204ae3753e&auto=format&fit=crop&w=952&q=80",
       "id": 5
     },
@@ -70,7 +70,7 @@
       "namaproduk": "Jangan Mlinjo",
       "kategori": "Makanan",
       "harga": 2000,
-      "deskripsi": "Waregi, Matep",
+      "deskripsi": "Pedas pedas gimana gitu, kaya omongan mantan yang akan selalu terngiang di hati selamanya",
       "img": "https://images.unsplash.com/photo-1464500650248-1a4b45debb9f?ixlib=rb-0.3.5&s=01b19e50eec4761f77f3eb53bba6c14d&auto=format&fit=crop&w=500&q=60",
       "id": 6
     },
@@ -78,7 +78,7 @@
       "namaproduk": "Kripik Kentang",
       "kategori": "Makanan",
       "harga": 3000,
-      "deskripsi": "Gurih, Nikmat",
+      "deskripsi": "Nonton, ngerjain tugas, nge date sama pacar paling enak sambil olahraga gigi biar gak melamun",
       "img": "https://images.unsplash.com/photo-1464901978424-7ccc357ddf95?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cbf94cbe57b1b370339d94b577263f8a&auto=format&fit=crop&w=500&q=60",
       "id": 7
     },
@@ -86,7 +86,7 @@
       "namaproduk": "Buah Seger",
       "kategori": "Desert",
       "harga": "12000",
-      "deskripsi": "Mantapp",
+      "deskripsi": "Buah sangatlah baik untuk menjadikan tubuhmu sehat, selain mengandung anti oksidan juga mengandung serat yang tinggi untuk melancarkan pencernaan",
       "img": "https://images.unsplash.com/photo-1515665966984-831e4cd20f96?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6b7e20fa8d4a5bd945b19302bf81b79e&auto=format&fit=crop&w=500&q=60",
       "id": 8
     },
@@ -94,7 +94,7 @@
       "namaproduk": "Roti Coklat",
       "kategori": "Desert",
       "harga": "21000",
-      "deskripsi": "Enak, Mantaaapp",
+      "deskripsi": "Buah sangatlah baik untuk menjadikan tubuhmu sehat, selain mengandung anti oksidan juga mengandung serat yang tinggi untuk melancarkan pencernaan",
       "img": "https://images.unsplash.com/photo-1543044243-523bd9aa0377?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ab9606e410588a15a927a9f9883a7370&auto=format&fit=crop&w=500&q=60",
       "id": 9
     },
@@ -102,7 +102,7 @@
       "namaproduk": "Es Buah",
       "kategori": "Minuman",
       "harga": 15000,
-      "deskripsi": "Enak, Seger",
+      "deskripsi": "Buah sangatlah baik untuk menjadikan tubuhmu sehat, selain mengandung anti oksidan juga mengandung serat yang tinggi untuk melancarkan pencernaan",
       "img": "https://images.unsplash.com/photo-1485265449635-ca623a55e95c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e55faaaeb17f73d9c0d4b4f6aa4eba93&auto=format&fit=crop&w=500&q=60",
       "id": 10
     }
@@ -110,42 +110,77 @@
   "cart": [
     {
       "username": "fikri",
-      "id_produk": 3,
-      "nama_produk": "Es Jeruk",
-      "img": "https://images.unsplash.com/photo-1543419417-6f584a98e66c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c890813f3834d573a6319d951fbebb5&auto=format&fit=crop&w=1050&q=80",
-      "harga_produk": 5000,
-      "kuantitas": "1",
-      "total": 5000,
+      "id_produk": 2,
+      "img": "https://images.unsplash.com/photo-1543076599-1b41bf749f9f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=747d908e9b3da4ae554a04e0e63f4430&auto=format&fit=crop&w=750&q=80",
+      "harga_produk": 6000,
+      "kuantitas": "5",
+      "total": 6000,
       "id_order": 1,
       "id": 1
     }
   ],
-  "history": {
-    "username": "fikri",
-    "time": "Tanggal = 1-10-2018 Jam = 22:23:9",
-    "order": [
-      {
-        "username": "fikri",
-        "id_produk": 3,
-        "nama_produk": "Es Jeruk",
-        "img": "https://images.unsplash.com/photo-1543419417-6f584a98e66c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c890813f3834d573a6319d951fbebb5&auto=format&fit=crop&w=1050&q=80",
-        "harga_produk": 5000,
-        "kuantitas": "1",
-        "total": 5000,
-        "id_order": 1,
-        "id": 1
-      },
-      {
-        "username": "fikri",
-        "id_produk": 2,
-        "nama_produk": "Jus Alpukat",
-        "img": "https://images.unsplash.com/photo-1543076599-1b41bf749f9f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=747d908e9b3da4ae554a04e0e63f4430&auto=format&fit=crop&w=750&q=80",
-        "harga_produk": 6000,
-        "kuantitas": "1",
-        "total": 6000,
-        "id_order": 1,
-        "id": 2
-      }
-    ]
-  }
+  "history": [
+    {
+      "username": "fikri",
+      "time": "Tanggal = 2-11-2018 Jam = 15:52:30",
+      "total_harga": 11000,
+      "item": 2,
+      "detail": [
+        {
+          "username": "fikri",
+          "id_produk": 2,
+          "namaproduk": "Jus Alpukat",
+          "img": "https://images.unsplash.com/photo-1543076599-1b41bf749f9f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=747d908e9b3da4ae554a04e0e63f4430&auto=format&fit=crop&w=750&q=80",
+          "harga_produk": 6000,
+          "kuantitas": "1",
+          "total": 6000,
+          "id_order": 1,
+          "id": 1
+        },
+        {
+          "username": "fikri",
+          "id_produk": 3,
+          "namaproduk": "Es Jeruk",
+          "img": "https://images.unsplash.com/photo-1543419417-6f584a98e66c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c890813f3834d573a6319d951fbebb5&auto=format&fit=crop&w=1050&q=80",
+          "harga_produk": 5000,
+          "kuantitas": "1",
+          "total": 5000,
+          "id_order": 1,
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "username": "fikri",
+      "time": "Tanggal = 2-11-2018 Jam = 16:55:5",
+      "total_harga": 8000,
+      "item": 2,
+      "detail": [
+        {
+          "username": "fikri",
+          "id_produk": 2,
+          "namaproduk": "Jus Alpukat",
+          "img": "https://images.unsplash.com/photo-1543076599-1b41bf749f9f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=747d908e9b3da4ae554a04e0e63f4430&auto=format&fit=crop&w=750&q=80",
+          "harga_produk": 6000,
+          "kuantitas": "1",
+          "total": 6000,
+          "id_order": 1,
+          "id": 1
+        },
+        {
+          "username": "fikri",
+          "id_produk": 6,
+          "namaproduk": "Jangan Mlinjo",
+          "img": "https://images.unsplash.com/photo-1464500650248-1a4b45debb9f?ixlib=rb-0.3.5&s=01b19e50eec4761f77f3eb53bba6c14d&auto=format&fit=crop&w=500&q=60",
+          "harga_produk": 2000,
+          "kuantitas": "1",
+          "total": 2000,
+          "id_order": 1,
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ]
 }
